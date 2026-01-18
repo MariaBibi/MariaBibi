@@ -223,7 +223,7 @@
 
 **I'm always interested in collaborating on exciting projects!**
 
-<a href="www.linkedin.com/in/ maria-bibi-SQAE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:mariafg3fg@yahoo.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
+<a href="https://www.linkedin.com/in/maria-bibi-6520714b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:mariafg3fg@yahoo.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
 
 📫 **Reach out** — I'd love to hear from you!
 
